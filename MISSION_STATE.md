@@ -45,6 +45,32 @@ On install, the chain fires itself: --scopes truth-list → fulfill selftest →
 valpatch excision → triple-verify + screenshots → [EXCISION-LIVE] → Mac's customer re-checks.
 App-URL/redirect version work: RETIRED.
 
+## 🌊 WEEKEND PULSE (Fri 9/12 → Mon 9/15 midday · funnel's first pulse check, founder-ordered)
+**178 new open orders.** Velocity/day × network cross-signal (full table: 12:4x dock card):
+F♯4-432 **16.6/day** (450 inbound — covered, no Printie action) · **D5-2.0 5.4/day** (120 inbound
+≈ 20-day cover — the real riser, watch weekly) · F♯5-Drone 3.7 (330 inbound, heavy cover) ·
+G3-Oc-432 2.3 (shelf 37 + 15 inbound ≈ 16-day cover) · ⚠️ **D4-Ocarina-440 1.7/day vs only 10
+inbound ≈ 6-day cover — thinnest cover on the board** · ⚠️ **B4-Drone-432 1.4/day with NO lane**
+(house-rule 7 says B♭4 can earn one — signal-born lane PROPOSAL, founder taps) · F♯4-Dorian-440
+1.4/day, no lane. Signal→SKU doctrine: these are proposals, never bets placed by the machine.
+
+## 💰 BUDGET FRAME (founder, 2026-09-15 midday — banked verbatim-in-substance)
+Inventory bet ceiling: 25K → 10K → ~8K/6K, now **~$11-12K total flow ceiling**; more bet-budget
+carves out ONLY on signal, inside that ceiling. Pool v3.1 ($394 firm) = ~3.5% of ceiling — the
+QA-before-orders safety net, deliberately small. Profit dial: founder flags bottom line looks
+thin — check whether **Fable 5 credit purchases** ride COGS/opex misclassified (VNA bookkeeping
+thread item); QuickBooks × Lighthouse recon is the lane, Deck crystallizes.
+
+## 📣 KLAVIYO BLAST — MACHINE-SIDE READINESS (honest, this minute)
+**NOT blast-ready yet. Three gates stand between now and "confident in our levers":**
+① [EXCISION-LIVE] — with Mac (spec + payload delivered 12:36); PDPs still show the old copy until
+   the clean duplicate publishes. Blasting onto un-excised PDPs = traffic onto Bypass-Law
+   violations. ② Ibrahim's F♯4/A4T uploads verified (Gate-⑥ + --postcheck) — imminent, not landed.
+③ The install tap — without it every blast-driven MTO order is HAND-cranked into Printie (orders
+   will land fine as MTO-CONTINUE; fulfillment automation is what's missing, bell ① unrung).
+**Blast the moment ①+② are green; ③ makes it self-running. D4/E4 "finish": files ride Ibrahim's
+queue; SKU rule-binds FROZEN pending the Antonio/Fahad migration word — not a blast blocker.**
+
 ## STANDING TRIGGERS
 Ibrahim's 2 vertical files (imminent) → `replacement_verify.py` on Mac's ping (support-scan +
 orientation + stlcheck; `--stamp` after his call; then his upload → `--postcheck` MANDATORY,
