@@ -167,6 +167,12 @@ fires. Dev-Dashboard managed install = alternate. Dev-Dashboard app 9952ed…: f
 .3mf flavor (never sliced/.gcode.3mf) ② filename A-Z 0-9 _ only (no # / spaces — the page rejects
 them) ③ Hz in every name. Working truth until disproven.
 
+## ⛵ POOL RE-SAIL (Deck ruling 15:4x)
+Pool #1 HELD → ONE consolidated submission (P1 + P2-Tier-1, batch pricing, one cut-line word,
+one ledger row) firing on Ibrahim's 4 unlock-keys (E4·D4·G3-Oc-440·F♯5-Pocket) + plate files +
+Code's plate staging. Balance $1,375 untouched tonight. Promise-date breaches auto-covered by
+the per-order MTO lane; flag only on breach. Mac narrowed to routing-drag/QA/publish-watch.
+
 ## ⚙️ ENDGAME BOARD (Deck rulings, founder "full send" — 15:1x)
 ① Green-light = founder WhatsApp lane (stamp on Jer's confirm) ② Ibrahim goodnight RELEASED on
 the honest sweep cut (2 replaced + 5 verified-current; 5 re-exports = silent morning runway)
