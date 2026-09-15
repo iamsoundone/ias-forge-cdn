@@ -53,6 +53,9 @@ G3-Oc-432 2.3 (shelf 37 + 15 inbound ≈ 16-day cover) · ⚠️ **D4-Ocarina-44
 inbound ≈ 6-day cover — thinnest cover on the board** · ⚠️ **B4-Drone-432 1.4/day with NO lane**
 (house-rule 7 says B♭4 can earn one — signal-born lane PROPOSAL, founder taps) · F♯4-Dorian-440
 1.4/day, no lane. Signal→SKU doctrine: these are proposals, never bets placed by the machine.
+**Ratified (Deck 2026-09-15 ~13:00): the 15-unit proposal delta = the system's first earned
+dollar-decision. FOUNDER ORPHAN CARD now reads: D♯4 (20u) · G♯4 (15u) · B4 (signal-born, no
+debt yet) — three keys needing a lane BORN or a retire word.**
 
 ## 💰 BUDGET FRAME (founder, 2026-09-15 midday — banked verbatim-in-substance)
 Inventory bet ceiling: 25K → 10K → ~8K/6K, now **~$11-12K total flow ceiling**; more bet-budget
@@ -61,8 +64,10 @@ QA-before-orders safety net, deliberately small. Profit dial: founder flags bott
 thin — check whether **Fable 5 credit purchases** ride COGS/opex misclassified (VNA bookkeeping
 thread item); QuickBooks × Lighthouse recon is the lane, Deck crystallizes.
 
-## 📣 KLAVIYO BLAST — MACHINE-SIDE READINESS (honest, this minute)
-**NOT blast-ready yet. Three gates stand between now and "confident in our levers":**
+## 📣 KLAVIYO BLAST — WAVE DECOUPLED (Deck ruling 2026-09-15 ~13:00)
+**The wave rides HERO = WAREHOUSE-DOOR SKUs (verified clean) and is DECOUPLED from the three
+machine gates below — Deck holds the wave. The gates still govern the PRODUCTION/AUTOMATION
+side only (MTO lanes, write-back, excised PDPs):**
 ① [EXCISION-LIVE] — with Mac (spec + payload delivered 12:36); PDPs still show the old copy until
    the clean duplicate publishes. Blasting onto un-excised PDPs = traffic onto Bypass-Law
    violations. ② Ibrahim's F♯4/A4T uploads verified (Gate-⑥ + --postcheck) — imminent, not landed.
