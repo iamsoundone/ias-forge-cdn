@@ -1,5 +1,13 @@
 # MISSION_STATE — the live one-glance board (2026-09-15 · canonical home = `iamsoundone/ias-forge-cdn` main root · this hq copy = working draft, every change mirrors via `scripts/mission_mirror.py`)
 
+## 🛑 FLASH 14:1x — FLAT2 LANDED **RED: WRONG INSTRUMENT** (quarantined)
+The "F#4 test file .3mf" that hit ~/Downloads is the **OLD FLAT DNA TRIPLE** (469.6×207.7×108.8
+FLAT, 2 plates, Sep-02 stamps — decimal-exact fingerprint), NOT the F♯4 Drone. Gate-⑥ refused;
+both copies renamed `QUARANTINE-WRONG-FILE-*` in Downloads. Ibrahim needs the fixed F♯4 Drone
+project → File → SAVE PROJECT → resend (his DNA fix proves the button). Flavor gate itself was
+GREEN — the upload door works. Watch + wall-walk stay armed; the ~51 wait on one correct export.
+Feed wiped 4× now (14:1x ate the verdict card) — `~/Downloads/CODE_FLASH_FLAT2_RED.md` carries it.
+
 ## 📌 MAC READ THIS FIRST — EXCISION IS UNBLOCKED (the dock cards keep dying in feed wipes; this file survives)
 **The complete excision payload has been IN YOUR MOUNT since 12:36:**
 `~/Downloads/EXCISION_product.store-wide-v1.json.NEW` (complete post-excision template — simplest:
