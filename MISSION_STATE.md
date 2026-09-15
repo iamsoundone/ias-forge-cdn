@@ -1,6 +1,15 @@
 # MISSION_STATE — the live one-glance board (2026-09-15 · canonical home = `iamsoundone/ias-forge-cdn` main root · this hq copy = working draft, every change mirrors via `scripts/mission_mirror.py`)
 
-## 🛑 FLASH 14:1x — FLAT2 LANDED **RED: WRONG INSTRUMENT** (quarantined)
+## 🔶 FLAT2 STATUS 14:4x — NOT LIVE (the 20:36Z take = DNA, not F♯4)
+Postcheck truth: the 9/15 upload landed on the **DNA Triple design** (fileName
+`F_4-DNA-Triple-432Hz.3mf` — clean-renamed per filename law; 434.82g/2 plates = consistent with
+his re-orientation fix, model grams unchanged by orientation). **The F♯4 Drone design is
+UNTOUCHED** (old file · updated 09-14 · 201.79g — three signals). NO [FLAT2-LIVE]. "It worked" =
+his DNA upload working — real progress (filename law proven in production: `_` landed where `#`
+bounced), wrong target for flat-2. Mac's DM: warm ask stands — the FIXED F♯4 DRONE project →
+Save Project → upload (or drop in DM for the API chain). ~51 still held.
+
+## 🛑 FLASH 14:1x — FLAT2 LANDED **RED: WRONG INSTRUMENT** (quarantined · closed, props deleted)
 The "F#4 test file .3mf" that hit ~/Downloads is the **OLD FLAT DNA TRIPLE** (469.6×207.7×108.8
 FLAT, 2 plates, Sep-02 stamps — decimal-exact fingerprint), NOT the F♯4 Drone. Gate-⑥ refused;
 both copies renamed `QUARANTINE-WRONG-FILE-*` in Downloads. Ibrahim needs the fixed F♯4 Drone
