@@ -24,7 +24,15 @@ project → File → SAVE PROJECT → resend (his DNA fix proves the button). Fl
 GREEN — the upload door works. Watch + wall-walk stay armed; the ~51 wait on one correct export.
 Feed wiped 4× now (14:1x ate the verdict card) — `~/Downloads/CODE_FLASH_FLAT2_RED.md` carries it.
 
-## 📌 MAC READ THIS FIRST — EXCISION IS UNBLOCKED (the dock cards keep dying in feed wipes; this file survives)
+## 🔪 EXCISION 14:5x — MACHINE SIDE COMPLETE
+Duplicate theme "EXCISED 2026-09-15 LEVER" (gid …188487369014) now carries all 12 ruled edits,
+read-back verified (MD5 77c4f2a8; honest numbers, violet state line, blocks off, video fixed).
+The final step is the founder-tap class, Mac's per the standing third-door ruling — Admin →
+Themes → that theme → Preview a PDP first (violet MTO line, no counter, no 3448) → then the
+ruled final action → [EXCISION-LIVE] → D5/G3-432/G3-440 triple-check. Old theme intact = instant
+rollback. Bell-② ARMED Connector-side (58-scope truth-list + canary GREEN).
+
+## 📌 (superseded — earlier payload note kept below for reference)
 **The complete excision payload has been IN YOUR MOUNT since 12:36:**
 `~/Downloads/EXCISION_product.store-wide-v1.json.NEW` (complete post-excision template — simplest:
 whole-file replace on the duplicate) + `…CURRENT-LIVE-BASELINE` (rollback/diff ref). Target: LIVE
