@@ -189,7 +189,21 @@ cadence). All 7 verdicts to dock either way; project-flavor files = future repla
 Tyler: closed, founder handled. Overnight governor: one-line stamps only — founder wakes to
 [FLAT2-LIVE] or "parked, one ask queued," nothing in between.
 
+## 🧭 ROUTING SPIKE VERDICT (20-min timebox, 15:5x)
+**[ROUTING = FOUNDER DRAG] confirmed for born-routing** — the ranking layer is the Order Routing
+Location Rule FUNCTION API: Shopify Plus + beta-by-request only; deliverySettingUpdate = legacy
+profiles toggle; no ranking mutation exists on our plan. The drag joins the founder's mobile card.
+**BONUS FOUND: `fulfillmentOrdersReroute` (Oct-2025) takes fulfillmentOrderIds[] +
+excludedLocationIds[] and moves FOs to the "next best location per the shop's delivery
+strategies" — meaning today's 20 mis-homed pure-MTO FOs can be swept in ONE call excluding IAS,
+POSSIBLY WITHOUT WAITING for the drag** (POD stocks those items = next best). Staged against
+`born_routing_fix_2026-09-15.json`; fires on the word (write-class, Two-Key discipline held).
+Born-routing for FUTURE orders still needs the drag either way.
+
 ## STANDING TRIGGERS
+- **[TYLER-FILENAME-FIX — retest on sight]:** when Tyler's filename fix ships, re-run the
+  upload/replace selftest ONCE (validation changes can shift behavior both directions). No
+  action until his change appears.
 Ibrahim's 2 vertical files (imminent) → `replacement_verify.py` on Mac's ping (support-scan +
 orientation + stlcheck; `--stamp` after his call; then his upload → `--postcheck` MANDATORY,
 change-design bug is live) · Ryan gSheet → HUMAN-CANON ingest · E4/D4 rule-binds FROZEN until
