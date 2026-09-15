@@ -35,11 +35,15 @@ Tyler-dashboard-only → the funnel's auto-replenish leg is a PROPOSAL engine (d
 Mac sets the dashboard threshold).
 
 ## FERRARI KEY (scope grant → the automation era)
-**Primary: Mac drives the custom-app CHECKBOX path (World A).** Code's CLI/Dev-Dashboard lane =
-FALLBACK ONLY (deprioritized per 12:0x packet) — kept warm: `shopify/ias-token-app/shopify.app.toml`
-holds the validated 12-scope config, one `app deploy` from Active-v3 if the checkbox path stalls.
-On granted (either path): mint `--scopes` verify → fulfill selftest → valpatch excision →
-wolf triple-verify → [BELL-② ARMED][BELL-③ ARMED].
+**12:24 TRUTH-CHECK: [SCOPE-MISMATCH] — mint still 400 `app_not_installed`.** The "v3 released →
+token live" claim is false at the rail: release changes what an install grants; it does not
+install. Right app confirmed (`SHOPIFY_API_KEY` = 9952ed0b… = IAS Forge Automation;
+`SHOPIFY_CLIENT_ID` alias is empty — cosmetic). **One gesture missing: the INSTALL** — Admin
+custom app: Configuration → Install button · Dev Dashboard: consent URL emitted
+(`mint_shopify_token.py --install-url`, swap in the registered redirect_uri).
+On install, the chain fires itself: --scopes truth-list → fulfill selftest → [BELL-②] →
+valpatch excision → triple-verify + screenshots → [EXCISION-LIVE] → Mac's customer re-checks.
+App-URL/redirect version work: RETIRED.
 
 ## STANDING TRIGGERS
 Ibrahim's 2 vertical files (imminent) → `replacement_verify.py` on Mac's ping (support-scan +
