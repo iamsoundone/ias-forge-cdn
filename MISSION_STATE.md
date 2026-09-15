@@ -200,6 +200,12 @@ POSSIBLY WITHOUT WAITING for the drag** (POD stocks those items = next best). St
 `born_routing_fix_2026-09-15.json`; fires on the word (write-class, Two-Key discipline held).
 Born-routing for FUTURE orders still needs the drag either way.
 
+## 🌸 RECOVERY RAIL (colors, 16:0x)
+Filament-match brief built (founder card #2: match/source/trim per color — his eye, no rush) ·
+Pool rows fund qualified colors ONLY (teeth in the doc) · Engine-Sheet [FILAMENT-GAP] tags via
+machine block · **rush lane banked: founder's printers/network = the emergency color lane,
+proposal-only, never auto.**
+
 ## STANDING TRIGGERS
 - **[TYLER-FILENAME-FIX — retest on sight]:** when Tyler's filename fix ships, re-run the
   upload/replace selftest ONCE (validation changes can shift behavior both directions). No
