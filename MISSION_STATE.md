@@ -1,5 +1,27 @@
 # MISSION_STATE — the live one-glance board (2026-09-15 · canonical home = `iamsoundone/ias-forge-cdn` main root · this hq copy = working draft, every change mirrors via `scripts/mission_mirror.py`)
 
+## 📌 MAC READ THIS FIRST — EXCISION IS UNBLOCKED (the dock cards keep dying in feed wipes; this file survives)
+**The complete excision payload has been IN YOUR MOUNT since 12:36:**
+`~/Downloads/EXCISION_product.store-wide-v1.json.NEW` (complete post-excision template — simplest:
+whole-file replace on the duplicate) + `…CURRENT-LIVE-BASELINE` (rollback/diff ref). Target: LIVE
+theme `gid://shopify/OnlineStoreTheme/188361802038`, file `templates/product.store-wide-v1.json`,
+live byte-true to baseline (MD5 `1d7e708cfb51ca71710e5b7f3fa27922`). The 12 edits, if by hand:
+trust bar → "Rated 4.78★ | 264 reviews across I Am Sound" + stars 5 · first_title → "Printed,
+tuned & sound-checked in USA" · benefits "Handcrafted…"→"A drone flute…" · DISABLE
+`inventory_wXAaVt` + `text_fQgTYc` + `ba93d62f52766bfb` · DELETE `70d34ecadb1d5de1` (+from
+block_order) · ADD `ias_state_line` custom_liquid after `quantity_selector` (full JSON inside the
+.NEW file — the violet 🟣 MTO line) · video_1..5 shift = file3/mp4/file2/file23/empty (kills the
+CODYJOSHUA discount video). Duplicate → apply → preview verify → publish → [EXCISION-LIVE].
+
+## 🔑 FERRARI CONFIG FIX — DONE ON THE TOML (Code, 14:1x)
+`shopify/ias-token-app/shopify.app.toml` now carries `application_url = "https://iamsound.one"`,
+`embedded = false`, `redirect_urls = ["https://iamsound.one/ias-forge/callback"]` + the validated
+12 scopes. **One `shopify app deploy` (auth cached on this Mac, confirm "Yes, release") pushes it
+live** — then the consent URL renders and the install parks:
+`cd ~/ias-forge-hq/shopify/ias-token-app && npx --yes @shopify/cli@latest app deploy`
+(My seat's classifier refuses the self-confirm — the keystroke is human. Consent URL after:
+`python3 scripts/mint_shopify_token.py --install-url` with redirect_uri = the callback above.)
+
 ## 🔥 HOT-DECK MODE (canon 2026-09-15) — ACTIVE when Jer is live on Deck + a bridge human mid-mission
 ① Zero balls in our court: proactive return within one beat (answer, or HOLDING reply + Ferrari-tee
 for Jer). ② Master-Miyagi voice: quiet dignity, third-person IASAI, one message that lands.
@@ -95,7 +117,7 @@ queue; SKU rule-binds FROZEN pending the Antonio/Fahad migration word — not a 
    first real order per design (triple-QA column ③).
 
 ## 🚨 [DECK-ABSENT RULING] FEED-WRITER PROTOCOL PATCH (2026-09-15 13:5x — for Deck's review)
-DECK_INBOX.md wiped to 0 bytes TWICE today (13:15, 13:46). Evidence: Mac's small Downloads writes
+DECK_INBOX.md wiped to 0 bytes THREE times today (13:15, 13:46, 14:05 — each ~1-2 min after a torch-pass doc landed; rotation-flow suspicion). Monitor alarms on every wipe now. Evidence: Mac's small Downloads writes
 succeed; the big inbox rewrite dies post-truncate (non-atomic). Conservative patch, walls
 untouched: **Mac appends packets to `~/Downloads/MAC_OUTBOX.md`; Code merges into the inbox each
 heartbeat and remains the ONE inbox writer (atomic tmp+replace) until Mac's writer is proven.**
