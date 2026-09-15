@@ -138,6 +138,19 @@ OAuth-URL park is DEAD (placeholder redirect_uri, empty allowlist — Mac verifi
 12 scopes → Install → reveal token → secrets.env as SHOPIFY_ADMIN_TOKEN → standing sequence
 fires. Dev-Dashboard managed install = alternate. Dev-Dashboard app 9952ed…: fallback only.
 
+## 🔤 MAKER FILE LAW (canon, founder-set 2026-09-15 evening)
+**Upload wall = flavor law + filename law — NO platform bug.** Every maker file: ① Save-Project
+.3mf flavor (never sliced/.gcode.3mf) ② filename A-Z 0-9 _ only (no # / spaces — the page rejects
+them) ③ Hz in every name. Working truth until disproven.
+
+## 🌙 TONIGHT'S SHAPE (no-pressure mode, founder-set)
+Main event = the 7-file check (Ibrahim's 2:14 PM Slack drop; Mac's Download click → chain fires).
+F♯4 project-flavor → full chain → [FLAT2-LIVE] → ~51 RESUME → "your Slack drop did it."
+F♯4 sliced-flavor → NO ping tonight; one warm re-export ask queued for Cairo ~9 AM (Mac's morning
+cadence). All 7 verdicts to dock either way; project-flavor files = future replaces pre-cleared.
+Tyler: closed, founder handled. Overnight governor: one-line stamps only — founder wakes to
+[FLAT2-LIVE] or "parked, one ask queued," nothing in between.
+
 ## STANDING TRIGGERS
 Ibrahim's 2 vertical files (imminent) → `replacement_verify.py` on Mac's ping (support-scan +
 orientation + stlcheck; `--stamp` after his call; then his upload → `--postcheck` MANDATORY,
