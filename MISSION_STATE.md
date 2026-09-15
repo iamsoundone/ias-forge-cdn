@@ -71,6 +71,24 @@ thread item); QuickBooks × Lighthouse recon is the lane, Deck crystallizes.
 **Blast the moment ①+② are green; ③ makes it self-running. D4/E4 "finish": files ride Ibrahim's
 queue; SKU rule-binds FROZEN pending the Antonio/Fahad migration word — not a blast blocker.**
 
+## 🔁 PRODUCTION-RESUME SEQUENCE (Mac's walk-forward script — what each human sees when the held book starts moving)
+1. **Ibrahim uploads a replacement** (design-files page ONLY) → pings Mac. *His part ends here.*
+2. **Machine, within minutes (Hot-Deck):** `replacement_verify.py SKU <file>` (orientation law →
+   stlcheck → support-scan) → his GOOD call → `--stamp` (sku_map re-binds) → `--postcheck`
+   (fresh API read-back: fileName/grams/plates — rail LIVE-FIRED 13:0x, grams print: a stale
+   totalGrams = the change-design bug fired, we catch it before any order does). Results → Mac's
+   DM lane immediately; Ibrahim gets his ✅ through Mac in the same beat.
+3. **What Ibrahim sees:** upload → one ✅ back. Nothing else — no SKU questions (truth table),
+   no re-uploads unless the bug fired (then: one more replace, same page).
+4. **What Tyler sees:** the SAME designIds carrying new files (no new-design review cycle for
+   replaces unless Printie re-triggers review — postcheck's reviewStatus field tells us) · then
+   held orders resuming at normal per-order cadence. **If resume opens a burst (the F♯4-family
+   backlog is 300+ units), Deck/Mac give Tyler the Viral-Notice heads-up BEFORE the burst — his
+   own etiquette law.** APPRENTICE_FORGE harvests each file passively in the same pass.
+5. **Order flow after stamp:** Clean Yard gate ① passes for that SKU → two-tier routing stands
+   (pool-first where a pool row exists; per-order = the failsafe) → [BELL-④] proof rides the
+   first real order per design (triple-QA column ③).
+
 ## STANDING TRIGGERS
 Ibrahim's 2 vertical files (imminent) → `replacement_verify.py` on Mac's ping (support-scan +
 orientation + stlcheck; `--stamp` after his call; then his upload → `--postcheck` MANDATORY,
