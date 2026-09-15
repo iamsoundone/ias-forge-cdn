@@ -1,6 +1,13 @@
 # MISSION_STATE — the live one-glance board (2026-09-15 · canonical home = `iamsoundone/ias-forge-cdn` main root · this hq copy = working draft, every change mirrors via `scripts/mission_mirror.py`)
 
-## 🔶 FLAT2 STATUS 14:4x — NOT LIVE (the 20:36Z take = DNA, not F♯4)
+## 🟢 [FLAT2-LIVE] 14:4x — IBRAHIM'S TAKE ON THE RIGHT ROW (20:41:36Z)
+F♯4 Drone design: fileName → `F_4-Drone-432Hz.3mf` · updatedAt 9/15 20:41Z · same designId
+(in-place, One-Writer) · active/ready. Grams 201.79 UNCHANGED = expected-consistent (re-orientation
+never moves model grams — DNA proved it at 20:36). Gate-⑥ eyeball = Mac's one glance at the
+design-page plate THUMBNAIL (vertical vs flat is visible) → green-light → ~51 RESUME → bell-①
+watch on canary #44464237 completion webhook. DNA + F♯4 both took tonight; filename law did it.
+
+## (superseded 14:4x) FLAT2 STATUS — NOT LIVE (the 20:36Z take = DNA, not F♯4)
 Postcheck truth: the 9/15 upload landed on the **DNA Triple design** (fileName
 `F_4-DNA-Triple-432Hz.3mf` — clean-renamed per filename law; 434.82g/2 plates = consistent with
 his re-orientation fix, model grams unchanged by orientation). **The F♯4 Drone design is
