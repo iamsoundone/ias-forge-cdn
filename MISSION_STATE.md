@@ -94,6 +94,20 @@ queue; SKU rule-binds FROZEN pending the Antonio/Fahad migration word — not a 
    (pool-first where a pool row exists; per-order = the failsafe) → [BELL-④] proof rides the
    first real order per design (triple-QA column ③).
 
+## 🚨 [DECK-ABSENT RULING] FEED-WRITER PROTOCOL PATCH (2026-09-15 13:5x — for Deck's review)
+DECK_INBOX.md wiped to 0 bytes TWICE today (13:15, 13:46). Evidence: Mac's small Downloads writes
+succeed; the big inbox rewrite dies post-truncate (non-atomic). Conservative patch, walls
+untouched: **Mac appends packets to `~/Downloads/MAC_OUTBOX.md`; Code merges into the inbox each
+heartbeat and remains the ONE inbox writer (atomic tmp+replace) until Mac's writer is proven.**
+Feed rebuilt twice from session state; pre-13:15 coordination history unrecoverable on this seat
+(substance safe in repo commits).
+
+## FERRARI — INSTALL DOOR RE-ROUTED (13:5x)
+OAuth-URL park is DEAD (placeholder redirect_uri, empty allowlist — Mac verified). Clean door =
+**Admin custom app** (World-A checkboxes, Mac-drivable end-to-end): Develop apps → Create →
+12 scopes → Install → reveal token → secrets.env as SHOPIFY_ADMIN_TOKEN → standing sequence
+fires. Dev-Dashboard managed install = alternate. Dev-Dashboard app 9952ed…: fallback only.
+
 ## STANDING TRIGGERS
 Ibrahim's 2 vertical files (imminent) → `replacement_verify.py` on Mac's ping (support-scan +
 orientation + stlcheck; `--stamp` after his call; then his upload → `--postcheck` MANDATORY,
