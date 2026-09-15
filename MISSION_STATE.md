@@ -167,6 +167,14 @@ fires. Dev-Dashboard managed install = alternate. Dev-Dashboard app 9952ed…: f
 .3mf flavor (never sliced/.gcode.3mf) ② filename A-Z 0-9 _ only (no # / spaces — the page rejects
 them) ③ Hz in every name. Working truth until disproven.
 
+## ⚙️ ENDGAME BOARD (Deck rulings, founder "full send" — 15:1x)
+① Green-light = founder WhatsApp lane (stamp on Jer's confirm) ② Ibrahim goodnight RELEASED on
+the honest sweep cut (2 replaced + 5 verified-current; 5 re-exports = silent morning runway)
+③ Excision final step = Mac (preview 📸 → ruled action → triple-check → [EXCISION-LIVE]; Code
+runs machine PDP text-verify behind it) ④ Routing = Mac's drag (POD above IAS) then Code's word-
+triggered sweep: 5-FO spot-check → 20-FO mover list → selftest → mixed-cart matrix ⑤ Pool =
+Mac's cart-from-bytes → 💳 founder window #3.
+
 ## 🌙 TONIGHT'S SHAPE (no-pressure mode, founder-set)
 Main event = the 7-file check (Ibrahim's 2:14 PM Slack drop; Mac's Download click → chain fires).
 F♯4 project-flavor → full chain → [FLAT2-LIVE] → ~51 RESUME → "your Slack drop did it."
