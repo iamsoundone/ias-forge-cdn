@@ -60,12 +60,12 @@ Mac sets the dashboard threshold).
 **12:24 TRUTH-CHECK: [SCOPE-MISMATCH] — mint still 400 `app_not_installed`.** The "v3 released →
 token live" claim is false at the rail: release changes what an install grants; it does not
 install. Right app confirmed (`SHOPIFY_API_KEY` = 9952ed0b… = IAS Forge Automation;
-`SHOPIFY_CLIENT_ID` alias is empty — cosmetic). **One gesture missing: the INSTALL** — Admin
-custom app: Configuration → Install button · Dev Dashboard: consent URL emitted
-(`mint_shopify_token.py --install-url`, swap in the registered redirect_uri).
+`SHOPIFY_CLIENT_ID` alias is empty — cosmetic). **One gesture missing: the INSTALL.** Path per Deck's torch (supersedes the earlier
+"URL work retired" note): §🔑 above — toml config FIXED (real App URL + redirect allowlist),
+one human `app deploy` renders the consent screen, then the install parks. (Admin custom-app
+fallback: Develop-apps currently empty per Mac — creating one remains the alternate door.)
 On install, the chain fires itself: --scopes truth-list → fulfill selftest → [BELL-②] →
-valpatch excision → triple-verify + screenshots → [EXCISION-LIVE] → Mac's customer re-checks.
-App-URL/redirect version work: RETIRED.
+valpatch → triple-verify + screenshots → Mac's customer re-checks.
 
 ## 🌊 WEEKEND PULSE (Fri 9/12 → Mon 9/15 midday · funnel's first pulse check, founder-ordered)
 **178 new open orders.** Velocity/day × network cross-signal (full table: 12:4x dock card):
