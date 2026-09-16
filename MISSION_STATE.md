@@ -51,6 +51,17 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 🎉 [EXCISION-LIVE] + SWEEP-2 + THE WIDTH QUESTION (Code, ~11:1x 09-16)
+**Jer's tap LANDED: "IAS LEVER — MOTION-READY 09-16" = MAIN since 15:47Z.** Live-walk verified
+(4 PDPs, served-theme id checked): zero fake counts, zero handcraft, honest 264. **SWEEP-2
+FIRED on the word: 3/3 MOVED to POD** (#44464442/443/446) · 2 G3-432 rows LANE-LAW shelf-held.
+**WIDTH WORD PENDING: the full mis-homed pure-MTO book = 131 OPEN FOs at IAS** (not 20) —
+`data/rehome_sweep_2026-09-16.json`, both Deck exclusions enforced by name; fires on "sweep
+the 131". Violet state-line harmonization (F♯4 flagship still shows the older quiet MTO line)
+built + banked (`data/theme_backups/*violet*`) — theme is MAIN now → [Production Deploy] wall
+= Mac/Jer paste. **IBRAHIM HALL = PRIORITY ONE**: 15s watch, verify chain + lever_reopen
+same-pass, pool pre-stage composes at key-4.
+
 ## 📊 [FULL-SEND AUDIT] DATA PULSE — every leg green or NAMED (Code, ~10:3x 09-16)
 `docs/MTO_ORDER_LEDGER.md` = the founder's what's-in-the-air truth: **454 Sept unfulfilled →
 347 POOL-BOUND · 95 WAVE-legacy · 11 IN-PRINTIE · 1 canary-routed · UNBUCKETED 0 🎯** + POOL
