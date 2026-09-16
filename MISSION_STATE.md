@@ -253,6 +253,14 @@ their tempo — and the founder's solo-act era ends without a single meeting.
 **THE STANDARD for every future seat/human onboarding (canon line, 22:0x). Next candidates when
 the founder radios: Vienne · Lynsey · Val.**
 
+## ⚖️ THE LANE LAW (founder crystallization, 9/16 AM — per-variant, automatic)
+**POSITIVE inventory → warehouse book** (ClearShip/ShipHero ships real shelves) ·
+**ZERO/below + CONTINUE → the MTO door opens** (born-routes Printie POD → their print → their
+Shippo → their bill) · **inventory returns → warehouse resumes FIRST, MTO recedes to backup —
+automatically, per variant.** ⚠️ Proof-case added to newborn-proof step ③: **G3-Oc-432 (37 shelf
++ POD-activated) must STILL born-route IAS post-drag** — if ranking overrides in-stock preference,
+flag BEFORE [ROUTING-PERMANENT]; the law's "positive→warehouse" clause is the thing under test.
+
 ## 🚢 SHIPPO DOCTRINE (canon, 22:2x — every seat carries it)
 **Printie's book ships via Printie's Shippo — through manual → pools → auto eras. Reconnect
 gated on Tyler's WRITTEN scoping answers (re-import? / tag-scoped imports?). Until then:
