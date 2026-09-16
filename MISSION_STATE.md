@@ -242,6 +242,8 @@ ticket) — first contact = solving their actual Tuesday. ③ **LAWS OVER CLICKS
 the canon (file law · two-books · PENDING-beats-plausible) and become CARRIERS of the culture,
 not users of a tool. Result: by nightfall each human is BRIDGED — with a seat, in their lane, at
 their tempo — and the founder's solo-act era ends without a single meeting.
+**THE STANDARD for every future seat/human onboarding (canon line, 22:0x). Next candidates when
+the founder radios: Vienne · Lynsey · Val.**
 
 ## STANDING TRIGGERS
 - **[TYLER-FILENAME-FIX — retest on sight]:** when Tyler's filename fix ships, re-run the
