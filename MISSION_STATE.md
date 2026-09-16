@@ -51,6 +51,18 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 📊 [FULL-SEND AUDIT] DATA PULSE — every leg green or NAMED (Code, ~10:3x 09-16)
+`docs/MTO_ORDER_LEDGER.md` = the founder's what's-in-the-air truth: **454 Sept unfulfilled →
+347 POOL-BOUND · 95 WAVE-legacy · 11 IN-PRINTIE · 1 canary-routed · UNBUCKETED 0 🎯** + POOL
+FEED TABLE by key + **presold/OWED fold: F♯4-432 342u · F♯5D-432 219u · D♯4/G♯4 = OWED not
+orphans (10u+3u each)**. Pool pre-stage banked (composes on key-4, cut-lines 394/2466/3570).
+Scaffolds 12/12 GREEN. **[PRICE-PARITY ✅] — F♯5-Pocket-440 already $25/null on the wire, no
+write needed; all twins match, zero strike-throughs.** Color grant: 4 bank-color reopens cut
+(rules bound 09-14) + ARMYDARKGREEN bambu-green bind payload staged — **Printie POST walled ×2
+at this seat today** ([Modify Shared Resources]; worked 09-14) → Mac lane carries bind + all
+policy flips. `docs/MTO_MASTER_LIST.md` = the tier canon banked. Write-back: FO-level ✅,
+per-line-item partials = NAMED gap. Fahad-bug regression = NAMED, awaits first canary newborn.
+
 ## 🔁 AUTO-REOPEN RIDER — the one-shot closer (Deck canon 08:4x 09-16, LIVE-FIRED GREEN)
 **Law: open door ⟺ printer can print it — BOTH directions, fleet-wide, no little-by-little.**
 The moment ANY key gains design-binding + POD activation (Ibrahim's uploads), its CONTINUE
