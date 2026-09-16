@@ -51,6 +51,19 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 🔒 GUARD LAW v2 — THREE-CLASS SPLIT (Deck ruling 08:1x, supersedes the blind flip below)
+The 68 fails re-cut: **CLASS A = 22 PRESOLD-SANCTIONED, STAY OPEN [PRESOLD-EXEMPT]** (E4 ×4 ·
+D4 ×4 · G3-Oc-440 ×2 · F♯5-Pocket-440 ×2 · PREORDER 440 twins ×6 · D4-Oc-440 ×2 — all cleared
+by Ibrahim's 4 keys within days; **+ F♯4-440 B/W ×2 RUNWAY-FLAGGED**: T1-funded #2 lane, no
+PREORDER token — founder's one word includes or drops it from the exemption) · **CLASS B = 1**
+(G4-432-WHT, 9 shelf — DENY only stops oversell past the shelf) · **CLASS C = 27 true leaks**
+(black-key PREORDERs C♯4/D♯4/F♯3/G♯4 · DORIAN · MAJOR · V2 · GRAYs · D5-440 · G4-432-BLK —
+zero stock, no design, no sanction; black-keys move to A on one word if those presells are
+still ruled live) · hygiene 15 (x-redo ops rows ×3 EXCLUDED — intentional 1M-qty tool).
+**B+C+hygiene = 43 variants / 6 batches** = `data/guard_deny_batches_v2_BC_2026-09-16.graphql.txt`
+(v1 blind-flip file DELETED, superseded). Classes ledger = `data/guard_law_v2_classes_2026-09-16.json`.
+Mac's paste stays the fire lane; founder card carries the A-list for ratification.
+
 ## 🔒 [GUARD-STAGED] THE TRIPLE-TEST CENSUS — flips walled, table cut (Code, 07:5x 09-16)
 Founder's law swept against all 2,225 variants: **82 CONTINUE → 14 triple-pass (keep) · 68 FAIL
 → DENY flip list** (46 active-dark-now incl. every presold lane C♯4/D♯4/F♯3/G♯4/DORIAN/MAJOR/V2
