@@ -51,6 +51,14 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 🧜 THE SECOND 184 + WAVE-2 (Code, ~14:0x 09-16)
+Draft-stock audit (founder snorkel find, wire-split): F♯5-440-PRE DRAFT = **22 FREE** + 8
+committed · **F♯5-432-PRE DRAFT = 127 COMMITTED on-shelf** (the F♯5-Pocket preorder book's
+stock, parked under the draft twin — same class as the 184). **WAVE-2 fired: 61 orders/63u
+tagged — TOTAL WAVE 293, zero errors.** Free-unit fold = PROPOSAL card (retitle law, founder
+word). DNA-WHT-draft +10 = TWIN-SUSPECT (Fahad physical check). Cross-stamp drift ZERO.
+v4.2 cart 52u/$277 CONFIRMED final.
+
 ## 🌊 SHELF WAVE 242 FIRED + v4.2 CART + REPOOL ENGINE (Code, ~13:4x 09-16)
 **232 orders CLEAN through the 6-check preflight and stamped [RUSH-SHELF-WAVE] 232/232 zero
 errors** (8 CLOSED-FO oddities PENDING by name). Check-② passes wave-wide by construction
