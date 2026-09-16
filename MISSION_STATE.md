@@ -51,6 +51,20 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 🌊 SHELF WAVE 242 FIRED + v4.2 CART + REPOOL ENGINE (Code, ~13:4x 09-16)
+**232 orders CLEAN through the 6-check preflight and stamped [RUSH-SHELF-WAVE] 232/232 zero
+errors** (8 CLOSED-FO oddities PENDING by name). Check-② passes wave-wide by construction
+(paid-only export; Tucker absent). The tag = the dedupe key the Sept-25 allocation pass reads.
+**CART v4.2 = 52u ≈ $277** (shelf-truth trim, $336 double-cash avoided — F♯4-BLK/G3-both/
+DNA-WHT zeroed; submit column = qty_v42). **True-MTO rush = NAMO ONLY** · Tucker HOLD
+(PENDING-CS) · Rick+Theo ride the wave front. **PRIORITY LAW encoded** (shelf → 1per → pool:
+wave allocator + v4.2 trim + zero_fallback leg). New steel: `mountain_guard.py` (committed>7d
++ shelf-coverable = LOUD, nightly) · auto-repool v1 in pool_table.py (floor-trip → plate
+multiples → demand pulse → CASH GUARD 40% → one-tap card). Triple-check: 1 deliberate rule
+orphan · 49 no-rule doors = exactly the staged guard classes · **CORRECTION LOUD:
+TestOrderCompletionWebhook = schema only, NO API path — the bell-① selftest is the dashboard
+button (Mac one-timer)**. Mac relays: ops/ClearShip heads-up + CS Book-B warm batch.
+
 ## 🔦 THE 184 ROOT CAUSE + THE MOUNTAIN PICK LIST (Code, ~13:1x 09-16)
 Wire-proven: PREORDER-BLACK @ IAS = **on_hand 184 / committed 184 / available 0**, zero holds,
 FOs OPEN+UNSUBMITTED 10 weeks → **the preorder book was WAVE-PARKED while its stock arrived
