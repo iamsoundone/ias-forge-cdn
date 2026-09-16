@@ -51,6 +51,18 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 🧮 [POOL-1 RECONCILE] — CART_FINAL_v5 IS THE ONLY CART (Deck ruling, Mac's hold ratified)
+All prior tables DEAD BY NAME (retirement ledger: v3.1 · v4/v4.1/v4.2 · wave1a — EST model
+prices diverged from live rates; Mac's hold = the save). **CART_FINAL_v5 = 37u / 11 fireable
+rows / 1 zeroed** (F♯5-440-BLK: 46 live shelf covers), TRUE plate multiples, live-shelf trim,
+quantity rule STATED (max(demand, 1-plate floor) snapped). **Prices = Mac's dashboard column
+(API exposes NO unitCost — verified); cent-match law: he fires only v5 with dock+sheet totals
+equal to the cent; recompute = v6.** E4-440 pair caught (watch-missed, named) + bound —
+gram-math 7/7, runway = G3-Oc-440 ONLY. **#44464458 LOUD-PENDING: does Printie's importer
+ingest FO-MOVED orders? Mac's queue test: #44464383/387/400/442 present? ABSENT ⇒ reroute ≠
+ingestion ⇒ sweep strategy needs a notify-Printie leg. The board's most load-bearing unknown.**
+Dual-live zero-check POSTED (7 rows = the routing-drag gate list). Standing NOs banked.
+
 ## 🏆 IBRAHIM'S DAY — 12/12 DESIGNS LIVE, WAVE-1 CART FINAL (Code, evening 09-16)
 Cairo shipped the doctrine itself: 12 designs (1PP+NPP dual pairs) across F♯5-Pocket 432/440 ·
 E4-432 · D4-432/440 — **all cleared Printie review same-day, gram-math 6-for-6 exact, zero
