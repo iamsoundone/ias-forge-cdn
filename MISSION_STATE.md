@@ -51,6 +51,18 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 🔦 THE 184 ROOT CAUSE + THE MOUNTAIN PICK LIST (Code, ~13:1x 09-16)
+Wire-proven: PREORDER-BLACK @ IAS = **on_hand 184 / committed 184 / available 0**, zero holds,
+FOs OPEN+UNSUBMITTED 10 weeks → **the preorder book was WAVE-PARKED while its stock arrived
+underneath.** Twin-variant ledger ghost named (plain-BLACK on_hand −185 = impossible; truth
+lives on the PREORDER twin — Fahad merge when convenient). **THE FIX =
+`data/ship_whats_shelved_2026-09-16.json`: 242 orders fully coverable from TODAY's shelf**
+(F♯4-432 ×185 · oldest Sept-2025 · oldest-first allocation · Rick+Theadore inside, both
+[RUSH-SHELF] tagged). Full tail: 1,537 paid-unfulfilled = MTO-BOOK 16 / LEGACY-NETWORK 1,433.
+Rush state: Rick/Theo → shelf pick (ShipHero hands) · Tucker HOLD (PENDING-CS tag) · Namo =
+Mac drives w/ paid submit (Deck ruling). LIBRARY_COVERAGE.md = 90 families, 7 fully-wired,
+one-shot board armed. Poll twin live (baseline 0). Rush preflight 6-check table banked.
+
 ## ⚙️ [LAWS → RUNNING STEEL] WIRE-THE-LAWS ①-⑤ (Code, ~12:4x 09-16, each live-fired)
 ① `scripts/pool_table.py` — plate-multiple MECHANICAL: qty snaps to units-per-plate from
 `data/plate_intel.json` (written by the verify chain at upload = plate grams ÷ unit grams;
