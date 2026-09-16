@@ -13,6 +13,18 @@ plausible (Data-Integrity Law) ⑧ NO fixing a wall by widening scope — blocke
 
 # MISSION_STATE — the live one-glance board (2026-09-15 · canonical home = `iamsoundone/ias-forge-cdn` main root · this hq copy = working draft, every change mirrors via `scripts/mission_mirror.py`)
 
+## 📐 [MTO-INFRA 100% — MACHINE SIDE] + PURGE/MERGE CENSUS (Code, 08:0x 09-16)
+Dial ⑤ matrix = `docs/MTO_INFRA_MATRIX.md`: 7-design 432 core verified leg-by-leg on the wire
+(binding · rules BLK/WHT ×14 · full-price ×14 Bypass-clean · routing states · guard · ad-truth ·
+ship-window single-source). Only two human-lane rows remain: Fahad's POD activations + Mac's
+guard-batch paste. Dial ② census = `data/variant_purge_merge_census_2026-09-16.json` +
+`data/sales_by_sku_lifetime_2026-09-16.tsv` (500-row lifetime truth banked to disk): 143 keep ·
+**667 ACTIVE unqualified-color variants = 19,833u / $1.07M lifetime** (the color question,
+quantified — GREEN-MATCH lane alone: ARMYDARKGREEN $74K on F♯4-432; slugs qualified, rules
+unbound, one founder color word away) · 28 purge candidates (<7u lifetime, no shelf — several
+carry NEGATIVE qty = owed units, NOT purgeable until obligations clear; unpublish = ledger +
+restore, never delete, founder-gated) · 24 watch rows (empty-SKU variants + GRAY pendings).
+
 ## 🎨 [THEME-FINAL — publish-ready] (Code, 07:58 MDT 09-16)
 The excised theme passed the final-polish pass and is renamed **"IAS LEVER — MOTION-READY
 09-16"** (gid …188487369014, UNPUBLISHED). ① 12 edits re-verified byte-true on the wire
