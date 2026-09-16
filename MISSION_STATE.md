@@ -245,6 +245,14 @@ their tempo — and the founder's solo-act era ends without a single meeting.
 **THE STANDARD for every future seat/human onboarding (canon line, 22:0x). Next candidates when
 the founder radios: Vienne · Lynsey · Val.**
 
+## 📦 SHIPHERO INBOUND (Fahad 10:07 · PENDING until receiving confirms)
+"Flutes en route → ShipHero, assignment locked." Mac pulls WHAT/HOW-MANY/ETA live. Archives
+prior: likely the 09-04 crew-order tranche (260 F♯4-class in-flight) = EARLY SLICE of the
+Sept-25 wave, not a separate pour — PENDING-ID, labeled honestly either way. **On stock-event
+confirm: those SKUs = warehouse-door heroes → flags the 🌊 wave-truth check** (a restock landing
+= the legitimate new story; founder decides, blast-follows-the-stamp). Machine detection: IAS
+positive-available jump on the next inventory heartbeat + Mac's ShipHero eyes.
+
 ## STANDING TRIGGERS
 - **[TYLER-FILENAME-FIX — retest on sight]:** when Tyler's filename fix ships, re-run the
   upload/replace selftest ONCE (validation changes can shift behavior both directions). No
