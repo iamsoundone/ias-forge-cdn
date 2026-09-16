@@ -219,6 +219,21 @@ Pool rows fund qualified colors ONLY (teeth in the doc) · Engine-Sheet [FILAMEN
 machine block · **rush lane banked: founder's printers/network = the emergency color lane,
 proposal-only, never auto.**
 
+## 🧊 SHIPPO×PRINTIE RULING + QUEUE GUARD (Deck 20:4x)
+Integration STAYS DISCONNECTED until scoping exists (Printie's book = MTO flow + pools ONLY,
+~63 + new). Reconnect needs written Printie answers: ① does the 300+ re-import on reconnect?
+② can imports scope to tagged/assigned orders (Advanced: partner API key/webhook)? — folded into
+Jer's ONE warm Tyler message, his timing. **GUARD LIVE: Mac appends dashboard glances to
+~/Downloads/PRINTIE_QUEUE_READS.txt ("HH:MM N"); machine alarms >50 same-beat (unscoped-import
+signature, ANY source — ShipHero already writes inventory to POD), drift-note >35. Seeded at
+25 (Fahad's post-disconnect truth).**
+
+## 💎 FAHAD'S ASSEMBLY CARD — GREEN-LIT (founder voice in hand 20:4x)
+Two adds as he goes: "tone holes face UP toward you when playing" line · printed box-inserts +
+on each PDP. Machine queue born: ① PDP assembly-instruction placement per key (Tuesday-class
+theme work, founder-gated) ② insert joins the Printie includedItems lane (founder-upload gate
+stands). The SEND of the green-light text = founder thumb / Mac relay — queue ≠ send.
+
 ## STANDING TRIGGERS
 - **[TYLER-FILENAME-FIX — retest on sight]:** when Tyler's filename fix ships, re-run the
   upload/replace selftest ONCE (validation changes can shift behavior both directions). No
