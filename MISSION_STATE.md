@@ -51,6 +51,19 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 🔁 AUTO-REOPEN RIDER — the one-shot closer (Deck canon 08:4x 09-16, LIVE-FIRED GREEN)
+**Law: open door ⟺ printer can print it — BOTH directions, fleet-wide, no little-by-little.**
+The moment ANY key gains design-binding + POD activation (Ibrahim's uploads), its CONTINUE
+auto-flips back ON + stamps [LEVER-REOPENED: key]. E4/D4 already open (Class A) · F♯4-440
+reopens on his #1 runway key · A3/B3 reopen the hour their first-ever designs land (both sit
+DENY today — the rider is their ignition). Rail = `scripts/lever_reopen.py` (census JSONL →
+two-way diff → flip batches + stamps; Class-A exemptions + x-redo honored; GRAY joins on Jer's
+word). **Live-fired against this morning's census: REOPEN 0 / CLOSE 28 — matches the v2 cut
+exactly, selftest exit honest.** Wired into the upload beat: replacement_verify --stamp →
+--postcheck → **lever_reopen same pass** → card within minutes (wall ⇒ Mac paste lane).
+Nightly selftest = fresh bulk pull → `lever_reopen.py census.jsonl --selftest` (nonzero exit
+= doors out of law).
+
 ## 🔒 GUARD LAW v2 — THREE-CLASS SPLIT (Deck ruling 08:1x, supersedes the blind flip below)
 The 68 fails re-cut: **CLASS A = 22 PRESOLD-SANCTIONED, STAY OPEN [PRESOLD-EXEMPT]** (E4 ×4 ·
 D4 ×4 · G3-Oc-440 ×2 · F♯5-Pocket-440 ×2 · PREORDER 440 twins ×6 · D4-Oc-440 ×2 — all cleared
