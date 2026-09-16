@@ -234,6 +234,15 @@ on each PDP. Machine queue born: ① PDP assembly-instruction placement per key 
 theme work, founder-gated) ② insert joins the Printie includedItems lane (founder-upload gate
 stands). The SEND of the green-light text = founder thumb / Mac relay — queue ≠ send.
 
+## 🥋 THE MIYAGI BRIDGE (canon, proven ×3 on 2026-09-15 — how humans join the fleet)
+① **RADIO** — the founder's voice names the human, the lane, the trust ("he's my main ops guy…
+breathe him on"). ② **WHITE GLOVE** — the machine meets them IN their moment, on a REAL problem,
+never a demo (Ibrahim: the upload wall · Fahad: Shippo + the direct link · Sharm: a live iceberg
+ticket) — first contact = solving their actual Tuesday. ③ **LAWS OVER CLICKS** — they inherit
+the canon (file law · two-books · PENDING-beats-plausible) and become CARRIERS of the culture,
+not users of a tool. Result: by nightfall each human is BRIDGED — with a seat, in their lane, at
+their tempo — and the founder's solo-act era ends without a single meeting.
+
 ## STANDING TRIGGERS
 - **[TYLER-FILENAME-FIX — retest on sight]:** when Tyler's filename fix ships, re-run the
   upload/replace selftest ONCE (validation changes can shift behavior both directions). No
