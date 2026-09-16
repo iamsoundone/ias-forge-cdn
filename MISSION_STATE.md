@@ -245,6 +245,12 @@ their tempo — and the founder's solo-act era ends without a single meeting.
 **THE STANDARD for every future seat/human onboarding (canon line, 22:0x). Next candidates when
 the founder radios: Vienne · Lynsey · Val.**
 
+## 🚢 SHIPPO DOCTRINE (canon, 22:2x — every seat carries it)
+**Printie's book ships via Printie's Shippo — through manual → pools → auto eras. Reconnect
+gated on Tyler's WRITTEN scoping answers (re-import? / tag-scoped imports?). Until then:
+disconnected = the CORRECT state, queue guard armed, ShipHero fulfills its own book. The design
+survives; only the fence was missing.**
+
 ## 📦 SHIPHERO INBOUND (Fahad 10:07 · PENDING until receiving confirms)
 "Flutes en route → ShipHero, assignment locked." Mac pulls WHAT/HOW-MANY/ETA live. Archives
 prior: likely the 09-04 crew-order tranche (260 F♯4-class in-flight) = EARLY SLICE of the
