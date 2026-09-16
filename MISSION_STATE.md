@@ -51,6 +51,11 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## ⚖️ RULING CORRECTION LEDGERED (Deck, 09-16): pool submit = plate-gated by PRICING
+PHYSICS, not ceremony — the Nper plate design IS the batch price; no plate, no pool math,
+nothing to submit. The gate was never approval theater; it's arithmetic. v4.3 zero-lag
+cart-build spec posted to the dock (plate lands → build → submit same instant).
+
 ## 🧜 THE SECOND 184 + WAVE-2 (Code, ~14:0x 09-16)
 Draft-stock audit (founder snorkel find, wire-split): F♯5-440-PRE DRAFT = **22 FREE** + 8
 committed · **F♯5-432-PRE DRAFT = 127 COMMITTED on-shelf** (the F♯5-Pocket preorder book's
