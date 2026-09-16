@@ -51,6 +51,19 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 🗺 LANE A/B SWEEP + POOL_AUTOMATION_MAP (Code, ~12:0x 09-16)
+**Lane B banked: `docs/POOL_AUTOMATION_MAP.md`** — 14-step chain, every human step NAMED (only
+THREE remain: pool-arrival signal [no API exists — the one Tyler ask that closes the loop] ·
+auto-replenish dashboard setting · webhook URL one-time config), everything else [TWIN].
+**GOLD from the fresh spec read: `TestOrderCompletionWebhook` endpoint exists — bell-① is
+selftestable ON DEMAND, no real order needed.** Lane A: ⑤ checkout PROVEN (canary MTO key →
+cart 200 $18 → live checkout session, abandoned) · ④ selftests reproduce the staged
+out-of-law set exactly (4 reopens/28 closes awaiting Admin round) · ① cross-ecosystem:
+Connector-visible webhooks = zero; third-party app hooks are API-invisible cross-app → full
+enumeration = Admin Apps screen (Mac's eyes, named) · ③ Ready-to-Ship membership is STALE vs
+its own AND-rules (A3, D4-Lum, F♯5P-432, DNA-draft sit in it WITHOUT the required tag) —
+**fix = one Admin re-save of the collection (forces reindex) + untag `restock` ×3**.
+
 ## 🎉 [EXCISION-LIVE] + SWEEP-2 + THE WIDTH QUESTION (Code, ~11:1x 09-16)
 **Jer's tap LANDED: "IAS LEVER — MOTION-READY 09-16" = MAIN since 15:47Z.** Live-walk verified
 (4 PDPs, served-theme id checked): zero fake counts, zero handcraft, honest 264. **SWEEP-2
