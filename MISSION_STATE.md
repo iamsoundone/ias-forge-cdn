@@ -1,3 +1,16 @@
+# 🚫 THE BIG NOs — OVERNIGHT LAW (founder mobile, 16:0x — OUTRANKS ALL TASK LOGIC)
+① NO machine-authored geometry, ever (Ibrahim carves, machine verifies — the horizontal blip is
+the eternal tuition receipt) ② NO spend (no pool submission, no Printie orders, no Meta raises
+tonight; dawn card = full-day reads only; no top-ups, no money toggles) ③ NO sends to humans
+(Ibrahim's sunrise relay = Mac's QUEUED send; queue ≠ send; nothing leaves the fleet without
+founder word) ④ NO writes on a claim — disk/API truth only (ls, postcheck, MD5); five ghosts
+caught tonight, stay paranoid ⑤ NO stamps without verification, and NO quiet un-stamping —
+wrong verdicts get corrected LOUD (the RED reversal is the template) ⑥ NO touching: Val's WBL_
+sandbox · Kate's "Don't Buy This" · HUMAN-CANON Engine-Sheet rows · CN landing templateSuffix ·
+T3BLAW · live Klaviyo sends ⑦ NO invented slugs/colors/quantities/prices — PENDING beats
+plausible (Data-Integrity Law) ⑧ NO fixing a wall by widening scope — blocked = stamp the wall
++ park it. Scope creep at 3AM is how clean nights die.
+
 # MISSION_STATE — the live one-glance board (2026-09-15 · canonical home = `iamsoundone/ias-forge-cdn` main root · this hq copy = working draft, every change mirrors via `scripts/mission_mirror.py`)
 
 ## 🟢 [FLAT2-LIVE] 14:4x — IBRAHIM'S TAKE ON THE RIGHT ROW (20:41:36Z)
