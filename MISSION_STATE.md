@@ -51,6 +51,15 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 🐣 POOL-FIRST DOCTRINE (founder canon 09-16) + CART v4.1 OF RECORD
+**ALL new products born in the pool/inventory area · the pulse system graduates winners to
+local-printer bulk · new releases go pool-first after home tests.** Cut-line = FIRED by
+founder word: cart of record = **86u ≈ $613 EST** (v4.1 plate multiples ×3 default, DNA ×1;
+`data/pool_cart_FIRE_2026-09-16.json`) — submission rides the human dashboard lane; Deck's
+word carries it to Mac. 78 quote-first stack as plates land (waves of ~6/key, pre-authorized).
+THE NUMBER = **standing auto-release at [FUNNEL ② GREEN]** (surface table staged in the kit).
+Tyler one-email staged (pool-at-zero + API stock reads — spec verified silent on both).
+
 ## 🗺 LANE A/B SWEEP + POOL_AUTOMATION_MAP (Code, ~12:0x 09-16)
 **Lane B banked: `docs/POOL_AUTOMATION_MAP.md`** — 14-step chain, every human step NAMED (only
 THREE remain: pool-arrival signal [no API exists — the one Tyler ask that closes the loop] ·
