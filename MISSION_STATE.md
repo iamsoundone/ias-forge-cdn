@@ -51,6 +51,16 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 🔓 [SHOPIFY-UNLOCKED] + [GUARD-LIVE] (founder full-unlock word, ~15:2x 09-16)
+The unlock opened the walled mutation classes. FIRED + echo-verified: 5 color doors OPEN
+(4 grant colors + ARMYDARKGREEN — its Printie bind landed 200/created/echo-verified on
+bambu-green = the $103K key live end-to-end) · ALL 43 guard closes · Ready-to-Ship untags ×3
++ forced reindex (31→28, truthful to its own rules). **Fresh-census selftest: ZERO
+out-of-law fleet-wide (41 lawful open / 818 closed, exit 0) = [GUARD-LIVE].** THE NUMBER
+surfaces staged live-ready (39 products, 2 metafieldsSet batches banked) — fires ONLY at
+[FUNNEL-② GREEN]. Violet paste = Mac's Admin lane per Deck ④ ([Blind Apply] walls the CLI
+shape); verify-after armed. Stale-gid law banked: re-resolve ids before every mutation.
+
 ## 💎 ZERO_TO_POOL_FLOW = CANON + POOL-1 LIFT PRE-AUTHORIZED (founder word 09-16)
 `docs/ZERO_TO_POOL_FLOW.md` = the one diagram every seat reads. Verified: ① zero-stock
 auto-produce per-order via SKU rule = DOC-CITED (spec: "orders fulfill automatically…without
