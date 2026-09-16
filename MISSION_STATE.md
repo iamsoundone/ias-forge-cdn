@@ -51,6 +51,27 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## ⚙️ [LAWS → RUNNING STEEL] WIRE-THE-LAWS ①-⑤ (Code, ~12:4x 09-16, each live-fired)
+① `scripts/pool_table.py` — plate-multiple MECHANICAL: qty snaps to units-per-plate from
+`data/plate_intel.json` (written by the verify chain at upload = plate grams ÷ unit grams;
+DNA=1 geometry-law seeded); DEFAULT-3 always LABELED; `--strict` FAILS LOUD on missing intel
+(fired: exit 1 on E4-440 exactly as designed); cart-of-record selftest GREEN (0 non-multiples).
+② META-LEVER GATE welded into `lever_reopen.py` — chain enforced in CODE order (upload → rule
+→ POOL ROW → door → lever); pool-row truth = the rule's batchQuantity echo (no stock API
+exists). **Fired: OPEN 0 / GATED 7 — correct, no pool rows exist until the cart submits.**
+`data/meta_lever_gate.json` = Deck's lift authority file.
+③ AUTO-SKU-RULE TWIN welded into `printie_api_replace.py` — every [DESIGN ✅] drafts its rule
+SAME PASS + echo-verified + banks plate intel from the upload estimate (the silent-death hole
+closed; compile-verified, body mirrors the proven set_rules shape; live-fires on Ibrahim's
+first upload).
+④ `scripts/zero_fallback_selftest.py` — nightly per-key assert (door+rule+eligibility physics).
+**Fired against morning wire truth: 7 GREEN / 7 RED and the REDs = EXACTLY the known open
+work** (oversold duals awaiting width-sweep · G3 missing-POD pair). Zero false positives.
+⑤ Replenish engine = `pool_table.py replenish`: plate-multiple proposals, floor = one full
+plate (fired: demand 0 → 1 plate; DNA ×1 intel-sourced). Founder tap stays the trigger.
+Nightly ritual: fresh census+levels pull → guard_census · lever_reopen --selftest ·
+zero_fallback · pool_table selftest — four greens or LOUD.
+
 ## 🐣 POOL-FIRST DOCTRINE (founder canon 09-16) + CART v4.1 OF RECORD
 **ALL new products born in the pool/inventory area · the pulse system graduates winners to
 local-printer bulk · new releases go pool-first after home tests.** Cut-line = FIRED by
