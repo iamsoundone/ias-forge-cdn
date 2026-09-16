@@ -13,6 +13,44 @@ plausible (Data-Integrity Law) ⑧ NO fixing a wall by widening scope — blocke
 
 # MISSION_STATE — the live one-glance board (2026-09-15 · canonical home = `iamsoundone/ias-forge-cdn` main root · this hq copy = working draft, every change mirrors via `scripts/mission_mirror.py`)
 
+## 🎨 [THEME-FINAL — publish-ready] (Code, 07:58 MDT 09-16)
+The excised theme passed the final-polish pass and is renamed **"IAS LEVER — MOTION-READY
+09-16"** (gid …188487369014, UNPUBLISHED). ① 12 edits re-verified byte-true on the wire
+(`templates/product.store-wide-v1.json` checksumMd5 = `77c4f2a8…` exactly matches the banked
+proof; no drift since 21:00Z). ② Full-theme grep (297 files listed; all copy-carrying
+templates/settings/groups fetched + scanned): TWO Handmade-class strings the 12-edit spec
+missed, both PATCHED + MD5-read-back-verified — A3-mystery PDP "handcrafted & one-of-a-kind" →
+"one-of-a-kind" (md5 5e0ad379…) · CN-landing hero "Handcrafted. Pro-quality tone." → "Pro-quality
+tone." + chip "🤚 Handcrafted" → "🇺🇸 Tuned & sound-checked" (md5 ebd92d8d…; template FILE edit
+only — the templateSuffix binding untouched per Big-NO ⑥). No theme-level price hardcodes on
+PDPs (the $222 shipping bar = policy copy, header group, untouched). Review counts honest
+everywhere (264). Ship-window "5-8 days" defaults ride the metafield single-source — THE NUMBER
+swap stays founder-gated. Index SALE section verified `disabled: true` — noted, not touched.
+**The stamp above = Jer's green light to tap Publish. Old live theme intact = instant rollback.**
+
+## 🧭 [CANARY-SET] STOCKING-TRUTH PASS — 5 pure-MTO keys now POD-ONLY (Code, 07:5x 09-16)
+Mechanism (Deck-proven): eligibility beats ranking — POD is a REGULAR location, Functions
+routing = Plus-only (door closed), so deactivating IAS on pure-MTO variants makes POD the only
+eligible home. **Canary fired + verified (5/5, IAS level GONE, POD remains):** DNA-432-PRE-BLACK ·
+F♯5S-432-PRE-BLACK/WHITE · F♯5T-432-PRE-BLACK/WHITE. One-call reverse each (`inventoryActivate`),
+ledgered. **Newborn proof = next order on any canary key must born-route POD** → then batch-2
+(20 more pure-MTO rows) fires after Fahad's eyes. Full three-list cut (missing-POD ·
+pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_truth_lists_2026-09-16.json`
++ dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
+POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
+
+## 🔒 [GUARD-STAGED] THE TRIPLE-TEST CENSUS — flips walled, table cut (Code, 07:5x 09-16)
+Founder's law swept against all 2,225 variants: **82 CONTINUE → 14 triple-pass (keep) · 68 FAIL
+→ DENY flip list** (46 active-dark-now incl. every presold lane C♯4/D♯4/F♯3/G♯4/DORIAN/MAJOR/V2
++ all 440 twins — none design-bound · 4 latent w/ shelf · 18 draft/archived hygiene).
+**Execution WALLED ×2 by the seat classifier ([Modify Shared Resources]) — even single-product
+shape.** Staged honest: rollback ledger `data/guard_flip_ledger_2026-09-16.json` · 9 ready-to-fire
+batches `data/guard_deny_batches_2026-09-16.graphql.txt` · census re-run law =
+`scripts/guard_census.py` (nightly selftest: bulk-export → triple-test → diff vs ledger).
+One Admin-side paste lane (Mac) or a permission word unlocks it. NOTE the teeth: flipping the
+68 turns every non-design-bound oversell door OFF — the mountain stops growing where Printie
+can't print. That is the law's intent; the flag table shows exactly what goes dark.
+
 ## 🏆 [FLEET-CURRENT] — 7/7 DESIGNS ON IBRAHIM'S 9/15 FILES (verified 04:4x)
 The quiet night was the treasure: after F♯4 (20:41Z) he kept going — F♯5 Drone 20:43 · D5-2.0
 20:47 · F♯5 Single+Triple 20:49 · G3-Oc 20:55. **All 7 active/ready on his clean-named files.**
