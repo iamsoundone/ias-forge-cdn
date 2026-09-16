@@ -51,6 +51,15 @@ pure-MTO · dual-lane w/ mirrored-shelf mysteries flagged) = `data/stocking_trut
 + dock copy. Dual-lane UNTOUCHED (inventory-first stands). G3-Oc-440-BLACK found already
 POD-only by physics; G3-432 pair + G3-440-WHITE = the missing-POD activation list.
 
+## 💎 ZERO_TO_POOL_FLOW = CANON + POOL-1 LIFT PRE-AUTHORIZED (founder word 09-16)
+`docs/ZERO_TO_POOL_FLOW.md` = the one diagram every seat reads. Verified: ① zero-stock
+auto-produce per-order via SKU rule = DOC-CITED (spec: "orders fulfill automatically…without
+manual intervention") + our 15-FO/25-queue book = living proof · ② first-article QC =
+design-level review_pending gate DOC-CITED; pool-batch specifics PENDING (Tyler/dashboard) ·
+③ repool floor = 1 plate WIRED. **STANDING ORDER: plates land → chain → cart → Mac submits
+SAME BEAT — authorization SPENT, founder pinged [POOL-1 LIFTED 🎉] AFTER.** Top-off card at
+balance < 1.5× next pool.
+
 ## ⚖️ RULING CORRECTION LEDGERED (Deck, 09-16): pool submit = plate-gated by PRICING
 PHYSICS, not ceremony — the Nper plate design IS the batch price; no plate, no pool math,
 nothing to submit. The gate was never approval theater; it's arithmetic. v4.3 zero-lag
