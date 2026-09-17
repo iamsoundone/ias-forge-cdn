@@ -63,6 +63,16 @@ ingest FO-MOVED orders? Mac's queue test: #44464383/387/400/442 present? ABSENT 
 ingestion ⇒ sweep strategy needs a notify-Printie leg. The board's most load-bearing unknown.**
 Dual-live zero-check POSTED (7 rows = the routing-drag gate list). Standing NOs banked.
 
+## 🔑 AUTHORITY LEDGER (founder voice-grant, 09-17 ~15:30)
+MAC/Klaviyo: FULL browser takeover Y5ZGJ4 — Sharm-bug cert, fixes, flow edits, tsunami
+staging END-TO-END (Waves A/B/C + SMS drafts, audiences/suppressions, Smart Sending off,
+URLs pre-warmed, send buttons PARKED) → [TSUNAMI STAGED ✓] + 4 review links to Jer as one
+packet. DECK/Meta: publish authority for anything API-executable; Hummingbird = browser-lane
+only (API can't carry TW UTM on IG post-ads — law > convenience). JER'S WALLS (only these):
+security/billing one-touches · consent toggle · SPF paste · the 4 SEND taps · GIF word.
+GATES (quality, not permission): Deck's visual gate on v2.2 BEFORE staging · Data-Integrity
+live counts at staging · verify-then-report on every "done."
+
 ## 🟢 [FUNNEL-② GREEN] — FIRST BORN-POD NEWBORN PROVEN (09-17 02:51Z, stamped ~01:3x MDT)
 **#44464480 · F♯5DRONE-432HZ-BLACK ×2: its POD FO was CREATED 02:51:51Z — ONE SECOND after
 order birth (02:51:50Z). Born at Printie POD by routing physics** (x-redo line split to IAS
