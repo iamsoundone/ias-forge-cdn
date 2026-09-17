@@ -63,6 +63,20 @@ ingest FO-MOVED orders? Mac's queue test: #44464383/387/400/442 present? ABSENT 
 ingestion ⇒ sweep strategy needs a notify-Printie leg. The board's most load-bearing unknown.**
 Dual-live zero-check POSTED (7 rows = the routing-drag gate list). Standing NOs banked.
 
+## 💳 POOL-1 SUBMITTED — v5 FIRED (Mac's 18:25 sail, 09-16 evening)
+**Printie order `1cG0iKj8lpSfWAJEbA13` · actual $236.12 vs EST $251.86 (Δ−6.25%, WITHIN the
+±20% fire law)** — Mac's Gate-3 eyes were the cent-match; composition unverifiable API-side
+(no order-read), one-line row confirm (11/11) asked of Mac. Wolf-pack leg still open: trigger
+= [POOL-1 RECEIVED] (arrival), submit ≠ received; arrival = human eyes (hand-crank #1).
+Poll-twin fired same beat: 0 items / 0 bells (expected — days out). PLUS: **Mac hand-entered
+7/7 owed pool-key customer orders** (Path A, founder GO, ~$122, 1PP designs, ships/bills on
+Printie's account) — Shopify FOs stay unfulfilled until Printie ships (bell-① / manual close).
+Ledgered in mto_order_ledger (order numbers only; PII detail stays in Mac's Downloads file).
+NEW LOAD-BEARING UNKNOWN (Mac's ask): **design-match doctrine** — spec proves shelf-draw
+exists ("stock-fulfillment discounts" in webhook totals) but is SILENT on the matcher: will
+rack units printed from 2PP plate designs satisfy incoming orders whose SKU rules point at
+1PP designIds? PENDING beats plausible → Tyler question drafted, rides Mac's warm thread.
+
 ## 🏆 IBRAHIM'S DAY — 12/12 DESIGNS LIVE, WAVE-1 CART FINAL (Code, evening 09-16)
 Cairo shipped the doctrine itself: 12 designs (1PP+NPP dual pairs) across F♯5-Pocket 432/440 ·
 E4-432 · D4-432/440 — **all cleared Printie review same-day, gram-math 6-for-6 exact, zero
