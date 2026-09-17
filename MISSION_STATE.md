@@ -63,6 +63,21 @@ ingest FO-MOVED orders? Mac's queue test: #44464383/387/400/442 present? ABSENT 
 ingestion ⇒ sweep strategy needs a notify-Printie leg. The board's most load-bearing unknown.**
 Dual-live zero-check POSTED (7 rows = the routing-drag gate list). Standing NOs banked.
 
+## 🟢 [FUNNEL-② GREEN] — FIRST BORN-POD NEWBORN PROVEN (09-17 02:51Z, stamped ~01:3x MDT)
+**#44464480 · F♯5DRONE-432HZ-BLACK ×2: its POD FO was CREATED 02:51:51Z — ONE SECOND after
+order birth (02:51:50Z). Born at Printie POD by routing physics** (x-redo line split to IAS
+at the same instant = birth assignment, not a move). Predates Fahad's 999-phantom test
+(different SKU, later clock) → clean canary proof. Fahad-bug regression = PASSED.
+**THE NUMBER standing rule DETONATED**: my PDP metafieldsSet leg WALLED ([Production Deploy])
+→ per the kit's own fallback, **Mac's Admin bulk-edit fires the 39-product "ships in 5-10
+business days" set** (payloads: data/the_number_live_payloads.json); his other rows (bridge
+🔑 post, email, macro, liquid string) fire on his beat. Queue-presence test for #480 in
+Printie's dashboard = the next importer proof (order_push twin covers a miss).
+FOUNDER COLOR RULING executed: freeze lifted, QUALIFIED_COLORS += GRAY/PURPLE/PINK (RED out
+loud — no slug), ADG→matte-dark-green rebind STAGED (POST walled), ARMYBLUE→"Blue Gray"
+slug-pending. Fahad's 999 phantom on F♯4-432-BLK@POD = banked exclusion
+(data/phantom_inventory_exclusions.json) — no sweep corrects or counts it.
+
 ## 💳 POOL-1 SUBMITTED — v5 FIRED (Mac's 18:25 sail, 09-16 evening)
 **Printie order `1cG0iKj8lpSfWAJEbA13` · actual $236.12 vs EST $251.86 (Δ−6.25%, WITHIN the
 ±20% fire law)** — Mac's Gate-3 eyes were the cent-match; composition unverifiable API-side
